@@ -1,7 +1,7 @@
 # Airline-Data-Warehouse-Modeling
 Analyze a major airline company's current business processes and expanding the company by discovering new opportunities by Analyzing flight activities, reservation process and customer care interaction.
 
-# Applied using Bill Inmon data model, ERD- Dimensional Modeling (snowflake schema)
+# Applied using ERD- Dimensional Modeling (Star schema)
 # The Grain:
 * Flights per segment (Transit). Segment is the stop point for each flight if it’s not a one way flight
 
